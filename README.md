@@ -1,19 +1,19 @@
-### Bank Tech Test
+# Bank Tech Test
 
 .. brief description ...
 
-# Setup
+### Setup
 
 ... setup for app and tests ...
 
-# Dependencies
+### Dependencies
 
 .. what they are, how to set them up, why the're worth it ...
 
-# Screenshots
+### Screenshots
 
 ... Screenshot here ...
 
-# Project Structure
+### Project Structure
 
 ... structure of the project and the code itself ...
